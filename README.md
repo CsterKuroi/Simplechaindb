@@ -2,6 +2,8 @@
 
 based on [BigchainDB](https://github.com/bigchaindb/bigchaindb)
 
+(without localdb)
+
 ##Get Start
 
 ### [Quick Start](http://www.showdoc.cc/simplechaindb?page_id=46525)
