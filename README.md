@@ -1,10 +1,10 @@
-#Simplechaindb
+# Simplechaindb
 
 based on [BigchainDB](https://github.com/bigchaindb/bigchaindb)
 
 (without localdb)
 
-##Get Start
+## Get Start
 
 ### [Quick Start](http://www.showdoc.cc/simplechaindb?page_id=46525)
 ### [For Cluster](http://www.showdoc.cc/simplechaindb?page_id=46526)
